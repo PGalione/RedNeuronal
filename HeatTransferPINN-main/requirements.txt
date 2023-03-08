@@ -1,0 +1,11 @@
+ipykernel
+jupyter
+matplotlib
+--extra-index-url https://download.pytorch.org/whl/cu116
+numpy
+torch
+torchvision
+latex
+scikit-learn
+pandas
+yaml
